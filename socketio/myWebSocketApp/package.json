@@ -1,0 +1,14 @@
+{
+  "name": "mywebsocketapp",
+  "version": "1.0.0",
+  "description": "My First Web Socket App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "socket.io": "^1.4.6"
+  }
+}
